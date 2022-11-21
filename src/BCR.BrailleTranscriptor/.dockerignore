@@ -1,0 +1,10 @@
+env
+_models
+__pycache__
+**/*.txt
+!requirements.txt
+.git
+*.md
+*.pyproj
+*.user
+**/*.pth
